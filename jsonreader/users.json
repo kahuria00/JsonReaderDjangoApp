@@ -1,0 +1,20 @@
+[ 
+  { "user_name": "Jane doe",
+    "user_email": "jane@gmail.com",
+    "user_address" : "jane lane",
+    "user_city" : "jane city"
+   },
+  { "user_name": "Janet doe",
+    "user_email": "janet@gmail.com",
+    "user_address" : "janet lane",
+    "user_city" : "New city"
+   }
+  ,
+   {"user_name": "Janie doe",
+    "user_email": "janie@gmail.com",
+    "user_address" : "janie lane",
+    "user_city" : "janie city"
+   }
+  
+ ]
+
